@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+
+.samosa{
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
