@@ -20,9 +20,13 @@ https://github.com/user-attachments/assets/c12e5ff2-5720-491c-95e3-ba3536492717
 
 ## Step 5: Reduce samosa count after upgrade purchase
 
-
-
 https://github.com/user-attachments/assets/6109173a-1a23-4930-804f-867569ad8b3d
+
+## Step 6: Change size of samosa on hover and click
+
+https://github.com/user-attachments/assets/b5b31fb5-62d1-43dd-878b-a41ed82cedef
+
+
 
 
 
