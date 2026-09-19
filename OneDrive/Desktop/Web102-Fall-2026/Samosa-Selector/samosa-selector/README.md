@@ -16,6 +16,8 @@
 
 ## Step 4: Handle upgrades
 
+https://github.com/user-attachments/assets/c12e5ff2-5720-491c-95e3-ba3536492717
 
-https://www.loom.com/share/c2c8726eab714b7681aca4b5823cc5be
+
+
 
