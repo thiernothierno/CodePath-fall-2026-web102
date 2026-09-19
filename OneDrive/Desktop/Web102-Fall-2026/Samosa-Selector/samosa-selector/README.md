@@ -24,7 +24,11 @@ https://github.com/user-attachments/assets/6109173a-1a23-4930-804f-867569ad8b3d
 
 ## Step 6: Change size of samosa on hover and click
 
-https://github.com/user-attachments/assets/b5b31fb5-62d1-43dd-878b-a41ed82cedef
+
+
+https://github.com/user-attachments/assets/15e18dec-99b3-40a2-9c39-d59081f72d13
+
+
 
 
 
