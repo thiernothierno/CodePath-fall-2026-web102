@@ -17,5 +17,5 @@
 ## Step 4: Handle upgrades
 
 
-https://www.loom.com/share/c2c8726eab714b7681aca4b5823cc5be
+![Demo](https://www.loom.com/share/c2c8726eab714b7681aca4b5823cc5be/demo.gif)
 
