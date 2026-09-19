@@ -15,7 +15,7 @@
 <img width="929" height="692" alt="image" src="https://github.com/user-attachments/assets/783db037-ff53-40d9-89a7-7b30aae5e8fd" />
 
 ## Step 4: Handle upgrades
-https://www.loom.com/share/c2c8726eab714b7681aca4b5823cc5be
+
 
 
 
