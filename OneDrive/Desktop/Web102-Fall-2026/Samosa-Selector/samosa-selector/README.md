@@ -23,6 +23,10 @@ In this step we add three different cards on the user interface. These cards ser
 Next, we add event handlers to each upgrade button so that when a user has enough samosas, they can buy an upgrade and update the value of the multiplier state variable.
 
 
+https://github.com/user-attachments/assets/4f3008e6-0f6d-47d1-997a-9c3c01970fad
+
+
+
 # Stretch Features
 ## Step 5: Reduce samosa count after upgrade purchase
 In this step each purchase handler is updated so the user loses samosas from their total count according to the upgrades they buy.
