@@ -20,7 +20,11 @@ https://github.com/user-attachments/assets/c12e5ff2-5720-491c-95e3-ba3536492717
 
 ## Step 5: Reduce samosa count after upgrade purchase
 
-https://github.com/user-attachments/assets/e8177527-d2f7-4ef5-8dfc-f85f427e9cbc
+
+
+https://github.com/user-attachments/assets/6109173a-1a23-4930-804f-867569ad8b3d
+
+
 
 
 
