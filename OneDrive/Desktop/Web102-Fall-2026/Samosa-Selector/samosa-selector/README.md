@@ -4,7 +4,7 @@
 In this lab we're going to create a clicker game in which player click on a big image (samosa) to rack up samosas then spend them on upgrades that multiply every click. The main goal of this lab is to learn new react concept such as useState, hook, and events. 
 
 ## Step 1: Create the user interface
-The first step consist of creating the user interface which contain a title, a count variable that increment the number of times a user click on the samosa and the big samosa image. 
+The first step consist of creating the user interface which contain a title, a count variable that increment the number of times a user click on the samosa and a big samosa image. 
 <img width="879" height="547" alt="image" src="https://github.com/user-attachments/assets/034e817c-cc51-4853-ad83-6355aa9361e9" />
 
 ## Step 2: Add a counter
