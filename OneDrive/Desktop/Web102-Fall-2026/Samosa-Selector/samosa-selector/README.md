@@ -21,7 +21,7 @@ In this step we add three different cards on the user interface. These cards ser
 
 ## Step 4: Handle upgrades
 Next, we add event handlers to each upgrade button so that when a user has enough samosas, they can buy an upgrade and update the value of the multiplier state variable.
-https://github.com/user-attachments/assets/c12e5ff2-5720-491c-95e3-ba3536492717
+
 
 # Stretch Features
 ## Step 5: Reduce samosa count after upgrade purchase
@@ -31,7 +31,9 @@ https://github.com/user-attachments/assets/6109173a-1a23-4930-804f-867569ad8b3d
 
 ## Step 6: Change size of samosa on hover and click
 In the final step we improve the user interface by modifying the size of the big samosa. So, the size of the samosa increases when a user hover on it, and it shrink back to it normal size when on click. 
-https://github.com/user-attachments/assets/a7060f20-a412-4a40-b8fe-0fead38a1e13
+https://github.com/user-attachments/assets/79fae27e-d52e-4cfe-884a-0368fb8c0d4a
+
+
 
 
 
