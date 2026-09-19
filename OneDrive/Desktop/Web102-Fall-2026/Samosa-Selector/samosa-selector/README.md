@@ -31,7 +31,11 @@ https://github.com/user-attachments/assets/6109173a-1a23-4930-804f-867569ad8b3d
 
 ## Step 6: Change size of samosa on hover and click
 In the final step we improve the user interface by modifying the size of the big samosa. So, the size of the samosa increases when a user hover on it, and it shrink back to it normal size when on click. 
-https://github.com/user-attachments/assets/79fae27e-d52e-4cfe-884a-0368fb8c0d4a
+
+
+https://github.com/user-attachments/assets/96eb0438-3998-44ce-9a7b-2789e6592a77
+
+
 
 
 
