@@ -16,3 +16,7 @@
 
 ## Step 4 & 5: Check user inputs against the true result
 <img width="1007" height="1339" alt="image" src="https://github.com/user-attachments/assets/0094a08f-a13a-4600-89f7-afe18671c0e9" />
+
+## Step 6: 
+
+<img width="1408" height="1924" alt="image" src="https://github.com/user-attachments/assets/73f089d3-085e-4265-ad50-3e10487321ed" />
