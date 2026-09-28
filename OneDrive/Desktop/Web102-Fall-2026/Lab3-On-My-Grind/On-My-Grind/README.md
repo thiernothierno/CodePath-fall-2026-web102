@@ -14,4 +14,5 @@
 
 <img width="869" height="908" alt="image" src="https://github.com/user-attachments/assets/7388870a-b3e8-471f-9382-8003e893225e" />
 
-## Step 4: Check user inputs against the true result
+## Step 4 & 5: Check user inputs against the true result
+<img width="1007" height="1339" alt="image" src="https://github.com/user-attachments/assets/0094a08f-a13a-4600-89f7-afe18671c0e9" />
