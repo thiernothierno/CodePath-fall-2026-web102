@@ -1,16 +1,22 @@
-# React + Vite
+# Lab3: On My Grind
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Overview
 
-Currently, two official plugins are available:
+## Step 1: Create React form structure
+<img width="1305" height="430" alt="Screenshot 2026-09-26 142218" src="https://github.com/user-attachments/assets/1e025da4-2655-4f14-9090-2f27ca59dde6" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Step 2: Create inputs form dynamically
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="829" height="903" alt="image" src="https://github.com/user-attachments/assets/0ca3fd07-82ef-47c1-8855-051af9c8349e" />
 
-## Expanding the Oxlint configuration
+## Step 3: Return a random drink from the drinks.json file. 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+<img width="869" height="908" alt="image" src="https://github.com/user-attachments/assets/7388870a-b3e8-471f-9382-8003e893225e" />
+
+## Step 4 & 5: Check user inputs against the true result
+<img width="1007" height="1339" alt="image" src="https://github.com/user-attachments/assets/0094a08f-a13a-4600-89f7-afe18671c0e9" />
+
+## Step 6: 
+
+<img width="1408" height="1924" alt="image" src="https://github.com/user-attachments/assets/73f089d3-085e-4265-ad50-3e10487321ed" />
